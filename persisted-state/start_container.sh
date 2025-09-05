@@ -28,8 +28,8 @@ docker_command=(
   -e "SB_STATE_DIR=/opt/outline/persisted-state"
 
   # Port number and path prefix used by the server manager API.
-  -e "SB_API_PORT=53082"
-  -e "SB_API_PREFIX=m9K9EIfm0uLr7khtmNGX5g"
+  -e "SB_API_PORT=23684"
+  -e "SB_API_PREFIX=9qBAFt5BK0uM1Sy7EQSb8Q"
 
   # Location of the API TLS certificate and key.
   -e "SB_CERTIFICATE_FILE=/opt/outline/persisted-state/shadowbox-selfsigned.crt"

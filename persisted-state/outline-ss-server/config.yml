@@ -20,6 +20,10 @@ keys:
     port: 55600
     secret: UpW6TxxM6UTvmdUIHzDsyR
   - cipher: chacha20-ietf-poly1305
+    id: '5'
+    port: 55600
+    secret: VgodZm8uUT8yXlkAWqTl9q
+  - cipher: chacha20-ietf-poly1305
     id: '7'
     port: 55600
     secret: 22gSVe3QhZZ55OE41pRVB0
@@ -80,6 +84,10 @@ keys:
     port: 55600
     secret: 9Ao2prUIt2e0U70nqbbkz3
   - cipher: chacha20-ietf-poly1305
+    id: '32'
+    port: 55600
+    secret: 2XUUNdnlnRJUHlsR8WEOCF
+  - cipher: chacha20-ietf-poly1305
     id: '34'
     port: 55600
     secret: dRqGDZuAbgeY2mzCJLjKyF
@@ -108,6 +116,10 @@ keys:
     port: 55600
     secret: UNtKFBXd2DHPRd8jehhayI
   - cipher: chacha20-ietf-poly1305
+    id: '44'
+    port: 55600
+    secret: 3hMfxsJTBW7pz1Lw2503gx
+  - cipher: chacha20-ietf-poly1305
     id: '46'
     port: 55600
     secret: K5FcNTlpZJeZiS611jGIdO
@@ -119,3 +131,7 @@ keys:
     id: '49'
     port: 55600
     secret: gU8itWu7OkEwqPXWbfn5mL
+  - cipher: chacha20-ietf-poly1305
+    id: '51'
+    port: 34520
+    secret: 9oZxa1rxusHmmrLBKJOun5
